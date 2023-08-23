@@ -1,5 +1,5 @@
 Package: com.cmd.fbstealth
-Name: CMD
+Name: FB-Stealth
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Watch facebook stories anonymously ios 10 32 bit devices (Tested on FB version 260-300)
