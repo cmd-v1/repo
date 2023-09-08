@@ -1,12 +1,12 @@
-Package: com.cmd.fbstealth
+Package: com.conspirac1st.fbstealth
 Name: FB-Stealth
-Version: 1.0.0
+Version: 1.0
 Architecture: iphoneos-arm
 Description: Watch facebook stories anonymously (Tested on ios 10, Facebook version 260-300)
-Maintainer: CMD
-Author: CMD
+Maintainer: conspirac1st
+Author: conspirac1st
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: ./debs/com.cmd.fbstealth_1.0_iphoneos-arm.deb
-Size: 3500	
-MD5sum: 1ea1d9d1f8a09bc5ea4e5bf576baf0d6
+Filename: ./debs/com.conspirac1st.fbstealth_1.0_iphoneos-arm.deb
+Size: 3504	
+MD5sum: 73496c8a34cb3b414e73bb49480094d9
