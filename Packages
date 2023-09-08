@@ -1,5 +1,5 @@
 Package: com.conspirac1st.fbstealth
-Name: FB-Stealth
+Name: FBStealth
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Watch facebook stories anonymously (Tested on ios 10, Facebook version 260-300)
