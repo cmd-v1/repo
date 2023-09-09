@@ -6,12 +6,12 @@ Description: Watch facebook stories anonymously (Tested on ios 10, Facebook vers
 Maintainer: conspirac1st
 Author: conspirac1st
 Section: Tweaks
-Version: 1.0
-Size: 3506
-Filename: ./debs/com.conspirac1st.fbstealth_1.0_iphoneos-arm.deb
-MD5sum: b7945964966fe3fd77640382d59fa2c3
-SHA1: ef883211e3465dc7ec5338b508f1a8d13e96816d
-SHA256: 6cbd8807b4c15f0f794aad8945f8c49d9ec6e20b6e7852d682a61f50fe2499b3
-SHA512: df1b0cca163408ea72c26db116b695effed1e1d6ed60eedfca31514b51d2dac2964847cce26a2b8f51f07ac6ed82cd76da04918aee7d07042ca6409ce9f4db1b
+Version: 0.0.1
+Size: 3512
+Filename: ./debs/com.conspirac1st.fbstealth_0.0.1_iphoneos-arm.deb
+MD5sum: cce73141fe7ffe880a83af320761742c
+SHA1: 16dcd3f68f485254565612c5ca97189642354d73
+SHA256: 8e31e67b55a678b3bcf04c1c6deec4cbe6043985adc7470b63b78ec63cb2db76
+SHA512: 7199b605d8ced61e73f9418cee809b26be0c521fd874fcd417c2369fc682c33d37513900d2d15dc53528c41d3acbce5dff9ce1019f7da0f7bf9ddae8b8c86b5a
 	
 
