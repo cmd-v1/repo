@@ -1,0 +1,53 @@
+.topnav {
+  background-color: rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.topnav a.active {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #2b3137;
+  background-size: cover;
+  text: #ffffff;
+}
+
+.box{
+  border-radius: 90px;
+  width: 450px;
+  height: 300px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+}
+
+.box-img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
