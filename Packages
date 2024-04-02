@@ -1,17 +1,31 @@
-Package: com.conspirac1st.fbstealth
+Package: com.cmd.fbstealth
 Name: FB-Stealth
-Depends: mobilesubstrate
+Depends: 
 Architecture: iphoneos-arm
-Description: Watch facebook stories anonymously (Tested on ios 10, Facebook version 260-300)
-Maintainer: conspirac1st
-Author: conspirac1st
+Description: Watch facebook stories anonymously on ios 10 (Tested Facebook version 260-350)
+Maintainer: CмÐ
+Author: CмÐ
 Section: Tweaks
 Version: 0.0.1
-Size: 3512
-Filename: ./debs/com.conspirac1st.fbstealth_0.0.1_iphoneos-arm.deb
-MD5sum: cce73141fe7ffe880a83af320761742c
-SHA1: 16dcd3f68f485254565612c5ca97189642354d73
-SHA256: 8e31e67b55a678b3bcf04c1c6deec4cbe6043985adc7470b63b78ec63cb2db76
-SHA512: 7199b605d8ced61e73f9418cee809b26be0c521fd874fcd417c2369fc682c33d37513900d2d15dc53528c41d3acbce5dff9ce1019f7da0f7bf9ddae8b8c86b5a
-	
+Size: 3678
+Filename: ./debs/com.cmd.fbstealth_0.0.1_iphoneos-arm.deb
+MD5sum: b87104c7c573cc5973c06cc396a752b1
+SHA1: 1e25ff9adcd37a20a7c8e1f92e681a91a5a7949a
+SHA256: 80e20cafb3172e903545615f6ba259834fe5aba61b9678d21b6e86d3cb555c5a
+SHA512: 8c40bff46bd188d8884e8aaf3c1fabbaa1924c5d97c278a7bc148ecc5f30fd64f069b9803faf1f838259125bdb2608af28d8e61f2f4dcb4784e487f20d320681
 
+Package: com.cmd.fbstealth
+Name: FB-Stealth
+Depends: 
+Architecture: iphoneos-arm64
+Description: Watch facebook stories anonymously on ios 10 (Tested Facebook version 260-350)
+Maintainer: CмÐ
+Author: CмÐ
+Section: Tweaks
+Version: 0.0.1
+Size: 3784
+Filename: ./debs/com.cmd.fbstealth_0.0.1_iphoneos-arm64.deb
+MD5sum: d1cf3f7a8bf7a0908873bec16d8a2223
+SHA1: 52b85d93cdeed45b76741f7e29d8017c9eb1c664
+SHA256: b67545a50cb962039a524cea43e35591e8b8e157da18c1f931529956cf66cae2
+SHA512: 81aa0731ea8af3f281b6bc29d88306f3ef2a72ff797d52754d82d7a7a03111003c1e025d4df96e35b1f758ac643b37ccc701cfe094082546bd8db2f6335756ee
