@@ -1,6 +1,5 @@
 Package: com.cmd.fbstealth
-Name: FB-Stealth
-Depends: 
+Name: FB-Stealth 
 Architecture: iphoneos-arm
 Description: Watch facebook stories anonymously on ios 10 (Tested Facebook version 260-350)
 Maintainer: CмÐ
@@ -16,7 +15,6 @@ SHA512: 8c40bff46bd188d8884e8aaf3c1fabbaa1924c5d97c278a7bc148ecc5f30fd64f069b980
 
 Package: com.cmd.fbstealth
 Name: FB-Stealth
-Depends: 
 Architecture: iphoneos-arm64
 Description: Watch facebook stories anonymously on ios 10 (Tested Facebook version 260-350)
 Maintainer: CмÐ
