@@ -4,8 +4,19 @@ body{
   background: #0d1117;
   background-size: cover;
   text: #ffffff;
+  overflow-x: hidden;
+}
+#canvas {
+  position: absolute;
+  width: 170%;
+  height: 170%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: 0;
 }
 .box{
+  position: absolute;
   border-radius: 90px;
   box-shadow: 0 0 10px 5px #fff;
               0 0 20px 7px #ebecca;
@@ -14,13 +25,20 @@ body{
   animation: shadows 1.5s infinite;
   width: 450px;
   height: 300px;
-  background: rgba(0, 0, 0, 0.4);
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #010409; /* rgba(0, 0, 0, 0.4) */
   padding: 40px;
   text-align: center;
   margin: auto;
   margin-top: 1%;
   color: white;
   font-family: 'Helvetica',sans-serif;
+  z-index: 1;
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 .box-img {
@@ -40,13 +58,18 @@ body{
   animation: shadows 1.5s infinite;
   width: 450px;
   height: 300px;
-  background: rgba(0, 0, 0, 0.4);
+
+  background: #010409; /* rgba(0, 0, 0, 0.4) */
   padding: 40px;
   text-align: center;
   margin: -39px;
   margin-top: 80px;
   color: white;
   font-family: 'Helvetica',sans-serif;
+  z-index: 1;
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 .box2-img {
@@ -66,13 +89,16 @@ body{
   animation: shadows 1.5s infinite;
   width: 450px;
   height: 300px;
-  background: rgba(0, 0, 0, 0.4);
+  background: #010409; /* rgba(0, 0, 0, 0.4) */
   padding: 40px;
   text-align: center;
   margin: -39px;
-  margin-top: 80px;
+  margin-top: 110px;
   color: white;
   font-family: 'Helvetica',sans-serif;
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 .box3-img {
@@ -81,4 +107,12 @@ body{
   height: 200px;
   object-fit: cover;
   object-position: center;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
