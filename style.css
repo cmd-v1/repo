@@ -15,7 +15,7 @@ body{
   width: 450px;
   height: 300px;
   background: #010409; /* rgba(0, 0, 0, 0.4) */
-  padding: 60px;
+  padding: 75px;
   text-align: center;
   margin: auto;
   margin-top: 3%;
@@ -44,9 +44,9 @@ body{
   width: 450px;
   height: 300px;
   background: #010409; /* rgba(0, 0, 0, 0.4) */
-  padding: 60px;
+  padding: 75px;
   text-align: center;
-  margin: -59px;
+  margin: -72px;
   margin-top: 150px;
   color: white;
   font-family: 'Helvetica',sans-serif;
@@ -73,9 +73,9 @@ body{
   width: 450px;
   height: 300px;
   background: #010409; /* rgba(0, 0, 0, 0.4) */
-  padding: 60px;
+  padding: 75px;
   text-align: center;
-  margin: -59px;
+  margin: -72px;
   margin-top: 190px;
   color: white;
   font-family: 'Helvetica',sans-serif;
