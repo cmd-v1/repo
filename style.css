@@ -4,17 +4,6 @@ body{
   background: #0d1117;
   background-size: cover;
   text: #ffffff;
-  overflow-y: hidden;
-  overflow-x: hidden;
-}
-#canvas {
-  position: absolute;
-  width: 170%;
-  height: 170%;
-  top: 0;
-  left: 0;
-  overflow: hidden;
-  z-index: 0;
 }
 .box{
   position: absolute;

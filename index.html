@@ -4,7 +4,6 @@
 <title>CмÐ's Repo</title>
 <link rel="stylesheet" href="style.css"
 <body>
-<canvas id="canvas"></canvas>
 <div class="box">
 <img src="img/cydia.png" alt="" class="box-img">
 <div>
@@ -22,32 +21,6 @@
 <div>
 <button type="button" onclick="location.href='zbra://sources/add/https://cmd-v1.github.io/repo/'">ADD to Zebra</button></p>
   <p>ADD to Zebra</p>
-<script src="particleSystem.js"></script>
-<script>
-var settings = {
-  speed: 0.9,
-  particles: 150,
-  min_size: 2,
-  max_size: 4,
-  dot_color: [255, 255, 255,],
-  line_color: [255, 255, 255,],
-  line_blur: 0,
-  line_width: 0.5,
-  connect_distance: 9500,
-  dot_glow_amount: 0,
-  add_bg_particles: true,
-  fps: 20,
-};
-
-function startSystem(){
-  var canvas = document.getElementById('canvas');
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;;
-  new ParticleSystem(settings, canvas).init();
-}
-
-startSystem();
-</script>
 </div>
 </body>
 </html>
