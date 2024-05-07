@@ -14,7 +14,7 @@ body{
   animation: shadows 1.5s infinite;
   width: 450px;
   height: 300px;
-  background: #0d1117; /* rgba(0, 0, 0, 0.4) */
+  background: rgba(0, 0, 0, 0.4); /* #0d1117 */
   padding: 40px;
   text-align: center;
   margin: auto;
@@ -43,7 +43,7 @@ body{
   animation: shadows 1.5s infinite;
   width: 450px;
   height: 300px;
-  background: #0d1117; /* rgba(0, 0, 0, 0.4) */
+  background: rgba(0, 0, 0, 0.4); /* #0d1117 */
   padding: 40px;
   text-align: center;
   margin: -39px;
@@ -72,7 +72,7 @@ body{
   animation: shadows 1.5s infinite;
   width: 450px;
   height: 300px;
-  background: #0d1117; /* rgba(0, 0, 0, 0.4) */
+  background: rgba(0, 0, 0, 0.4); /* #0d1117 */ 
   padding: 40px;
   text-align: center;
   margin: -39px;
