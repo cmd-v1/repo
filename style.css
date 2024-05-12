@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: #0d1117;
+  background: rgba(33, 39, 55, 1); /* #0d1117 */
   background-size: cover;
   text: #ffffff;
 }
