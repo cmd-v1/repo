@@ -1,26 +1,104 @@
 <!DOCTYPE html>
-<html>
-<link rel="icon" href="icon.png">
-<title>CмÐ's Repo</title>
-<link rel="stylesheet" href="style.css"
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="icon.png"
+  <meta name="viewport" content="width=device-width, initial-scale=0.7"> 
+  <title>CмÐ's Repo</title>
+  <style> 
+    body {
+      background-color: rgba(33, 39, 55, 1);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 50vh;
+      margin: 0;
+      animation: fadeInAnimation ease 3s;
+      animation-iteration-count: 1;
+      animation-fill-mode: forwards;
+    }
+ 
+
+    .container {
+      position: absolute;
+      max-width: 800px;
+      text-align: center;
+      transform: translate(-50%, -50%);
+      left: 50%;
+      top: 17%;
+    }
+   .container1 {
+      position: absolute;
+      max-width: 800px;
+      text-align: center;
+      transform: translate(-50%, -50%);
+      left: 50%;
+      top: 29%;
+    }   
+    .telegram-logo {
+      width: 100px;
+      height: auto;
+    }
+
+    a {
+      color: #40cd95;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #25b58e;
+    }
+    
+
+    .horiz-line {
+      position: absolute;
+      border-top: 1px solid white;
+      width: 250px; 
+      margin: 3rem 0; 
+      transform: translate(-50%, -50%);
+      left: 50%;
+      top: 16%;
+    }
+.p1 {
+  position: absolute;
+  top: 300px;
+}
+.resize {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+  </style>
+</head>
 <body>
-<div class="box">
-<img src="img/cydia.png" alt="" class="box-img">
-<div>
-<button type="button" onclick="location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://cmd-v1.github.io/repo/'">ADD to Cydia</button></p>
-  <p>Author: CмÐ</p>
-  <p><a>Just My Repo</a></p>
-<div class="box2">
-<img src="img/sileo.jpg" alt="" class="box2-img">
-<div>
-<button type="button" onclick="location.href='sileo://source/https://cmd-v1.github.io/repo/'">ADD to Sileo</button></p>
-  <p>ADD to Sileo</p>
-</div>
-<div class="box3">
-<img src="img/zebra.png" alt="" class="box3-img">
-<div>
-<button type="button" onclick="location.href='zbra://sources/add/https://cmd-v1.github.io/repo/'">ADD to Zebra</button></p>
-  <p>ADD to Zebra</p>
-</div>
-</body>
+  <div class="container">
+    <h1>CмÐ's Repo</h1>
+    </div>
+    <hr class="horiz-line"> 
+    <div class="container1">
+    <h3>ADD to</h3>  
+    <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cmd-v1.github.io/repo/">Cydia</a>
+    &nbsp;
+    <a href="sileo://source/https://cmd-v1.github.io/repo/">Sileo</a>
+    &nbsp;
+    <a href="zbra://sources/add/https://cmd-v1.github.io/repo/">Zebra</a>    
+    </div>
+    <img class="resize" src="img/output-onlinepngtools.png"> 
+<script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'884e26e5fd512b85',t:'MTcxNTg5MTcwMy4yMTQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
 </html>
+   
