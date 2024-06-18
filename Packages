@@ -27,3 +27,33 @@ MD5sum: ed713e4a0bb701a12e197cd8a76f96a0
 SHA1: 256ee1b0b8ea261750037a7402e25e3563a8a0a6
 SHA256: a4342259d23333ab01cf88dcb59268095d04d6e7517f5b9f272938d2e680dc1d
 SHA512: f69217cf1247e746c10a7c121075db22b7bd24bc91d97323b019cbc6c26c5b26cac88ea07ef6097e0a1db1a15c545dcb11e2ba607db7da24a286b6ea1d28ee63
+
+Package: com.cmd.youtubenoupdate
+Name: YoutubeNoUpdate
+Architecture: iphoneos-arm
+Description: Disable youtube update alert. (Made with logos, not in C like "LetMePass")
+Maintainer: CмÐ
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 4206
+Filename: ./debs/com.cmd.youtubenoupdate_1.0_iphoneos-arm.deb
+MD5sum: 700bfb4b6548f3a01f8443fd6d884cd6
+SHA1: a88aea8c81c64d26a66538d07b2c3909d726bbc8
+SHA256: e14976715709b7b3d64e844f26658be34db3ff1c7b6019a77627cd17c0e3a310
+SHA512: 842ea16624aeabec3d82583d67e058afb546c2bbcad660b2fde92c6035cc3247b903d2e7d0f3a0a1c40106aacd41c0878837f4a142f6f7048b8ccfebf003eba9
+
+Package: com.cmd.youtubenoupdate
+Name: YoutubeNoUpdate
+Architecture: iphoneos-arm64
+Description: Disable youtube update alert. (Made with logos, not in C like "LetMePass")
+Maintainer: CмÐ
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 4298
+Filename: ./debs/com.cmd.youtubenoupdate_1.0_iphoneos-arm64.deb
+MD5sum: 7a9766cc5ae3baeab800e00f0c340ea0
+SHA1: 261fdee58334a917b272248f3f99c4a562d6e1eb
+SHA256: 764cb2e612a4770f8827638428a373816678cfc9c04d72a18d092b62558f03fb
+SHA512: 75a85eeb229044ccafe0457e46a7b5b130f8052fe8117cd53e11d077fa10f84285c7db3af5587060917e707300197de204139fead37effebedcb935d77fde0e2
