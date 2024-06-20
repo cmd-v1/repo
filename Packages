@@ -82,14 +82,14 @@ Description: (HB means Home Button devices only) Changes the lockscreen bottom t
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 14924
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+Size: 13662
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
 Filename: ./debs/com.cmd.changebottomlstext2_1.0_HB1317_iphoneos-arm.deb
-MD5sum: 366dc4450889ca5365018b5dbc21458c
-SHA1: 9b838adc001a8af74956c7f28f59cfffe49cdf8a
-SHA256: 3bff80271db926454173de4cb668f0200c1aad32ef71162b432341cf399073e6
-SHA512: ffa9bbe6158f7743e9e9ab5cd098aa1be4402c32f4cedcfc54d285c6c925231eaf5e2378f9f830179b02e40c301e3909015a67f8d6ad6c9e03bd184020fbc079
+MD5sum: 9983e7ca603bb9a5e6ea1cbca4a6b56a
+SHA1: 497033a61c0375cca167aa83cbe7799d514c43c0
+SHA256: 93bcdf23a6ac00fa823a23ca5df01124d2a1d31463cb306836b559bacf985e07
+SHA512: 0556e48384b3f5723ade4634e836d01fc63bde965a28b56373480e2f2d57efa4541b7d9ad496b3542c53b84c9e0a72cc7bcf1a1568bd639d3d7e332679c67713
 
 Package: com.cmd.changebottomlstext2
 Name: ChangeBottomLSText (HB Only ios 13-17)
@@ -98,14 +98,14 @@ Description: (HB means Home Button devices only) Changes the lockscreen bottom t
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 14904
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+Size: 14886
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
 Filename: ./debs/com.cmd.changebottomlstext2_1.0_HB1317r_iphoneos-arm64.deb
-MD5sum: fff87572c1fefa0e93d95961b73c3cb5
-SHA1: 65b0d26c0e9f8df461711d23871e75cb0d4da8c1
-SHA256: f92796995a278db9c837ee49144a5167f322314b2f79ab7258e84cd9dfb3f877
-SHA512: 215cb36b72cde213c84c31f7ca19863cc7a53ff373a58cf1da4d22958097766d560d96891b3c534d03dce5535fb44674864c69bfb009d58dc12545b567cb5d7c
+MD5sum: c654a23e49d8e9471f394df97181f2c1
+SHA1: fa32912b30059816d87cc9998736ebf6643129a0
+SHA256: 3e6cb8ce1e3a4374050e7972075ccf3b668a4a1658ac8c53d1cb84476c07a4cc
+SHA512: 2e889e52ff08e45edbd838450d90e6e3a5ee0e4c5fbb93e824eb605b76a698d92807793c57fcc158fdedcf0b1751b3ff772ccf64a34f3c0badc3e24c3810e5ab
 
 Package: com.cmd.changebottomlstext3
 Name: ChangeBottomLSText (X gestures Only 13-17)
@@ -114,14 +114,14 @@ Description: Changes the lockscreen bottom text. KNOWN ISSUE: The text won't be 
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 14322
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+Size: 13056
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
 Filename: ./debs/com.cmd.changebottomlstext3_1.0_X1317_iphoneos-arm.deb
-MD5sum: 7f9e299c8cd74e6bcc853ec892a799d7
-SHA1: caa0746769276c40dae2c9057e5269de867f6a78
-SHA256: fc86efecbabf30bb9277c79ead1ea51f9bf31cb70b33307e7ed4f8d8da5eb521
-SHA512: 44b6f345ab00ada8392ecc7fcf048a3bc77aee92f75a084124417df2fe39f1d43f28e3a2580a724634b1a7856fd64514f20c503b8a100b98337f8e65979c50a3
+MD5sum: 2a6b2b92828a47e5cdcb000a9ec286ab
+SHA1: 2299ba19972c249eb6435cbbc86b90454d04fb7a
+SHA256: 832430d926986f57ff174c3c8e47d0124978dad3e7e0a71192ba14a0f709011f
+SHA512: 78b4648756ba5dd317060673bd9f73d748a92ebb4bf776d587dbfbedb79bd11e8e833ce64607ff751bb93f9fba75c89fe9fb35a0268cbf3c33b4ba58bfd6a58e
 
 Package: com.cmd.changebottomlstext3
 Name: ChangeBottomLSText (X gestures Only 13-17)
@@ -130,14 +130,14 @@ Description: Changes the lockscreen bottom text. KNOWN ISSUE: The text won't be 
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 14298
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+Size: 14274
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
 Filename: ./debs/com.cmd.changebottomlstext3_1.0_X1317r_iphoneos-arm64.deb
-MD5sum: 549b631a004b3633c1b9b45b5a5c5eeb
-SHA1: 4c67709d50ee66ac2264a1ccc69a4338190a092f
-SHA256: eee26f7e3a30be91c3631ea5ae1586b2afa63779d9f3f932c8d9b56de559c0b1
-SHA512: 14c6aa8de773abc71c4ca3001b09215a4647bb108a58c4148b5944b90f99128c680c4905a0c35791898b7412617f7668e65fc05eba0723d6388ab8ee3d2bae8e
+MD5sum: c64c206ee35a13abcc76466b88faa1ca
+SHA1: d39669d0f0d8b8bb8bed4e479a4f79a95b4842d1
+SHA256: b6e4303291b2da122264f290e184c2028ebd6e3fadf20c670d586b148f47c19c
+SHA512: 8b5a9670335c61b1f2cc21aa4504109017d48f614c3bbd6fbcdbe244cd38e24e3438bdd4c0f25956495f6a1890eb27aaee4a8989ef89ebaf655d653577ecba1f
 
 Package: com.cmd.quickactionsx
 Name: QuickActionsX
@@ -146,14 +146,14 @@ Description: Enable lock screen quick action buttons on devices that don't have 
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 24764
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+Size: 23616
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 icon: https://camo.githubusercontent.com/5aa2afbd0a4cde5a2b958b4e53c7553793237a07ed7630c1de98d48191f09176/68747470733a2f2f692e6962622e636f2f7946325073324c2f68616e642d70726573732d616374696f6e2d69636f6e2e6a7067
 Filename: ./debs/com.cmd.quickactionsx_1.0_iphoneos-arm.deb
-MD5sum: 1d74bb17620b44cd0e6978e55e6c9439
-SHA1: f378d7e3b43dd31a1ca7929da1e0dd7385ba6bcf
-SHA256: ea3af7c0bb8a595dc59d2fafe14314f4461938c39e0b0ec813eb1f7d81f2b6f6
-SHA512: ce3dc14f116bad23dbfec6801121161505d35d4a85fb1dff2e73b647fa3f8207f171d03643d28fcd57b14c62908584d888eb34192c79f1ad7b3e7f41e5c8e5bc
+MD5sum: 7c6851b63010bf5c7d4944f09e177022
+SHA1: 9984cb38e91bd3f085687f57b675ce08af6f7078
+SHA256: f167b09136d5853c2d352c94b2f942d85ac18cf8b56bd5760122283ffb9a92c3
+SHA512: 0320d53d0168ac77e3ec36e6b19250f80774e72c0cae7ca76c57873fef653f97a8e248685580abc25a2603a3c6c65010fe9f4fad826e05292178d6d456a3a958
 
 Package: com.cmd.quickactionsx
 Name: QuickActionsX
@@ -162,12 +162,11 @@ Description: Enable lock screen quick action buttons on devices that don't have 
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 24878
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+Size: 24682
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 icon: https://camo.githubusercontent.com/5aa2afbd0a4cde5a2b958b4e53c7553793237a07ed7630c1de98d48191f09176/68747470733a2f2f692e6962622e636f2f7946325073324c2f68616e642d70726573732d616374696f6e2d69636f6e2e6a7067
 Filename: ./debs/com.cmd.quickactionsx_1.0_iphoneos-arm64.deb
-MD5sum: 0c99436fc2649cca4d863d52b192dd9b
-SHA1: bcff99f2d2cae06b161e8cbb57c4b934758dd21b
-SHA256: dbec1c8bce8ea5e901d9141d8e6f434558c2e7f4c454cdbd337d809a7430230e
-SHA512: 77ef9491873bcdf7a97eb71bae5f0b350cebd646dfc9a84ba4a81b3a9b6400670914e477e21e4d6e5b47675e2cd8ea0a18a9c05b132d79e02b233602c35bee3a
-
+MD5sum: 3cb1eeba48b336fd4e2ef9ef206a0a04
+SHA1: 9023f2534dfbd7b594395ae4e06553e755445547
+SHA256: 754274153b0cf816ba4525b55ed67bce7db3d3afa5104bdda177c999170ce31c
+SHA512: bcdfe3d9bfa185efb72ac7fa15991ff3121188f6804803fb7bb21583fea3961ef8575adc1b08b28af2dd49333cdfa24b8605c55ac86632f5448007094938f3a2
