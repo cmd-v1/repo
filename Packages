@@ -90,3 +90,19 @@ MD5sum: 366dc4450889ca5365018b5dbc21458c
 SHA1: 9b838adc001a8af74956c7f28f59cfffe49cdf8a
 SHA256: 3bff80271db926454173de4cb668f0200c1aad32ef71162b432341cf399073e6
 SHA512: ffa9bbe6158f7743e9e9ab5cd098aa1be4402c32f4cedcfc54d285c6c925231eaf5e2378f9f830179b02e40c301e3909015a67f8d6ad6c9e03bd184020fbc079
+
+Package: com.cmd.changebottomlstext2
+Name: ChangeBottomLSText (HB Only ios 13-17)
+Architecture: iphoneos-arm64
+Description: (HB means Home Button devices only) Changes the lockscreen bottom text and always display it, also hides lockscreen bottom dot. KNOWN ISSUE: The text won't be saved in preferences unless getting out of the preference pane before respring (you can get back to the preference pane and respring from there). DISCLAIMER: The hide lockscreen bottom dot might not work on ios 16 i didn't have a device to test.
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 14904
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
+Filename: ./debs/com.cmd.changebottomlstext2_1.0_HB1317r_iphoneos-arm64.deb
+MD5sum: fff87572c1fefa0e93d95961b73c3cb5
+SHA1: 65b0d26c0e9f8df461711d23871e75cb0d4da8c1
+SHA256: f92796995a278db9c837ee49144a5167f322314b2f79ab7258e84cd9dfb3f877
+SHA512: 215cb36b72cde213c84c31f7ca19863cc7a53ff373a58cf1da4d22958097766d560d96891b3c534d03dce5535fb44674864c69bfb009d58dc12545b567cb5d7c
