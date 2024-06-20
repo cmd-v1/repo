@@ -66,7 +66,7 @@ Description: (HB means Home Button devices only) Changes the lockscreen bottom t
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 12288
+Size: 11166
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), firmware (<= 12.9.9)
 icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
 Filename: ./debs/com.cmd.changebottomlstext_1.0_HBios10_12iphoneos-arm.deb
