@@ -57,3 +57,20 @@ MD5sum: 7a9766cc5ae3baeab800e00f0c340ea0
 SHA1: 261fdee58334a917b272248f3f99c4a562d6e1eb
 SHA256: 764cb2e612a4770f8827638428a373816678cfc9c04d72a18d092b62558f03fb
 SHA512: 75a85eeb229044ccafe0457e46a7b5b130f8052fe8117cd53e11d077fa10f84285c7db3af5587060917e707300197de204139fead37effebedcb935d77fde0e2
+
+
+Package: com.cmd.changebottomlstext
+Name: ChangeBottomLSText (HB Only ios 10-12)
+Architecture: iphoneos-arm
+Description: (HB means Home Button devices only) Changes the lockscreen bottom text and always display it, also hides lockscreen bottom dot.
+Author: CмÐx`
+Section: Tweaks
+Version: 1.0
+Size: 12288
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), firmware (<= 12.9.9)
+icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
+Filename: ./debs/com.cmd.changebottomlstext_1.0_HBios10_12iphoneos-arm.deb
+MD5sum: 19107d98affe7544e89504eedca7f1b2
+SHA1: 3086640816883400445ff61d79bef27e0bd0f31c
+SHA256: 5066be8e41335ad1bf2d68f2423b4a56fbe8ff2da672c5b80a8a0360a08c8ade
+SHA512: 4a485d394e8d2bf032b2e7904a2627a17719affc227bf5bcbff26993543926478a7fc862545783b706ed790bc82c2a0f15945a767e481c170fc91d94cb288e78
