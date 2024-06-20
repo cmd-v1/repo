@@ -138,3 +138,36 @@ MD5sum: 549b631a004b3633c1b9b45b5a5c5eeb
 SHA1: 4c67709d50ee66ac2264a1ccc69a4338190a092f
 SHA256: eee26f7e3a30be91c3631ea5ae1586b2afa63779d9f3f932c8d9b56de559c0b1
 SHA512: 14c6aa8de773abc71c4ca3001b09215a4647bb108a58c4148b5944b90f99128c680c4905a0c35791898b7412617f7668e65fc05eba0723d6388ab8ee3d2bae8e
+
+Package: com.cmd.quickactionsx
+Name: QuickActionsX
+Architecture: iphoneos-arm
+Description: Enable lock screen quick action buttons on devices that don't have them and move them horizontally or vertically.
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 24764
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+icon: https://camo.githubusercontent.com/5aa2afbd0a4cde5a2b958b4e53c7553793237a07ed7630c1de98d48191f09176/68747470733a2f2f692e6962622e636f2f7946325073324c2f68616e642d70726573732d616374696f6e2d69636f6e2e6a7067
+Filename: ./debs/com.cmd.quickactionsx_1.0_iphoneos-arm.deb
+MD5sum: 1d74bb17620b44cd0e6978e55e6c9439
+SHA1: f378d7e3b43dd31a1ca7929da1e0dd7385ba6bcf
+SHA256: ea3af7c0bb8a595dc59d2fafe14314f4461938c39e0b0ec813eb1f7d81f2b6f6
+SHA512: ce3dc14f116bad23dbfec6801121161505d35d4a85fb1dff2e73b647fa3f8207f171d03643d28fcd57b14c62908584d888eb34192c79f1ad7b3e7f41e5c8e5bc
+
+Package: com.cmd.quickactionsx
+Name: QuickActionsX
+Architecture: iphoneos-arm64
+Description: Enable lock screen quick action buttons on devices that don't have them and move them horizontally or vertically.
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 24878
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+icon: https://camo.githubusercontent.com/5aa2afbd0a4cde5a2b958b4e53c7553793237a07ed7630c1de98d48191f09176/68747470733a2f2f692e6962622e636f2f7946325073324c2f68616e642d70726573732d616374696f6e2d69636f6e2e6a7067
+Filename: ./debs/com.cmd.quickactionsx_1.0_iphoneos-arm64.deb
+MD5sum: 0c99436fc2649cca4d863d52b192dd9b
+SHA1: bcff99f2d2cae06b161e8cbb57c4b934758dd21b
+SHA256: dbec1c8bce8ea5e901d9141d8e6f434558c2e7f4c454cdbd337d809a7430230e
+SHA512: 77ef9491873bcdf7a97eb71bae5f0b350cebd646dfc9a84ba4a81b3a9b6400670914e477e21e4d6e5b47675e2cd8ea0a18a9c05b132d79e02b233602c35bee3a
+
