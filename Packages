@@ -63,7 +63,7 @@ Package: com.cmd.changebottomlstext
 Name: ChangeBottomLSText (HB Only ios 10-12)
 Architecture: iphoneos-arm
 Description: (HB means Home Button devices only) Changes the lockscreen bottom text and always display it, also hides lockscreen bottom dot.
-Author: CмÐx`
+Author: CмÐ
 Section: Tweaks
 Version: 1.0
 Size: 12288
