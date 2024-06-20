@@ -75,18 +75,18 @@ SHA1: 3086640816883400445ff61d79bef27e0bd0f31c
 SHA256: 5066be8e41335ad1bf2d68f2423b4a56fbe8ff2da672c5b80a8a0360a08c8ade
 SHA512: 4a485d394e8d2bf032b2e7904a2627a17719affc227bf5bcbff26993543926478a7fc862545783b706ed790bc82c2a0f15945a767e481c170fc91d94cb288e78
 
-Package: com.cmd.changebottomlstext
+Package: com.cmd.changebottomlstext2
 Name: ChangeBottomLSText (HB Only ios 13-17)
 Architecture: iphoneos-arm
 Description: (HB means Home Button devices only) Changes the lockscreen bottom text and always display it, also hides lockscreen bottom dot. KNOWN ISSUE: The text won't be saved in preferences unless getting out of the preference pane before respring (you can get back to the preference pane and respring from there). DISCLAIMER: The hide lockscreen bottom dot might not work on ios 16 i didn't have a device to test.
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 14942
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+Size: 14924
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
 icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
-Filename: ./debs/com.cmd.changebottomlstext_1.0_HB1317_iphoneos-arm.deb
-MD5sum: eaa8ca1bb30d59e1c5ff9683aaaa00ef
-SHA1: ef08ae7cdc7ded17fe3f55e62848144d1e05e866
-SHA256: 9bd5f6fc75c886f6f17d41a1cf27b9be10fa0fb490a99256816c1d820cdb0910
-SHA512: 9757f05cd1b75fc60f8bdde78e5ce871d3b107d6f046f5e32afd78c69803b95d67aeeddde04258e3185d92ccfe90bfa092efce482275da32c5cfda64344ebb5d
+Filename: ./debs/com.cmd.changebottomlstext2_1.0_HB1317_iphoneos-arm.deb
+MD5sum: 366dc4450889ca5365018b5dbc21458c
+SHA1: 9b838adc001a8af74956c7f28f59cfffe49cdf8a
+SHA256: 3bff80271db926454173de4cb668f0200c1aad32ef71162b432341cf399073e6
+SHA512: ffa9bbe6158f7743e9e9ab5cd098aa1be4402c32f4cedcfc54d285c6c925231eaf5e2378f9f830179b02e40c301e3909015a67f8d6ad6c9e03bd184020fbc079
