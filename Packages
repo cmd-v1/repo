@@ -122,3 +122,19 @@ MD5sum: 7f9e299c8cd74e6bcc853ec892a799d7
 SHA1: caa0746769276c40dae2c9057e5269de867f6a78
 SHA256: fc86efecbabf30bb9277c79ead1ea51f9bf31cb70b33307e7ed4f8d8da5eb521
 SHA512: 44b6f345ab00ada8392ecc7fcf048a3bc77aee92f75a084124417df2fe39f1d43f28e3a2580a724634b1a7856fd64514f20c503b8a100b98337f8e65979c50a3
+
+Package: com.cmd.changebottomlstext3
+Name: ChangeBottomLSText (X gestures Only 13-17)
+Architecture: iphoneos-arm64
+Description: Changes the lockscreen bottom text. KNOWN ISSUE: The text won't be saved in preferences unless getting out of the preference pane before respring (you can get back to the preference pane and respring from there). DISCLAIMER: Might not work on ios 16 i didn't have a device to test.
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 14298
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<= 16.9.9)
+icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
+Filename: ./debs/com.cmd.changebottomlstext3_1.0_X1317r_iphoneos-arm64.deb
+MD5sum: 549b631a004b3633c1b9b45b5a5c5eeb
+SHA1: 4c67709d50ee66ac2264a1ccc69a4338190a092f
+SHA256: eee26f7e3a30be91c3631ea5ae1586b2afa63779d9f3f932c8d9b56de559c0b1
+SHA512: 14c6aa8de773abc71c4ca3001b09215a4647bb108a58c4148b5944b90f99128c680c4905a0c35791898b7412617f7668e65fc05eba0723d6388ab8ee3d2bae8e
