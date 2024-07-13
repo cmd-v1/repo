@@ -82,14 +82,14 @@ Description: (HB means Home Button devices only) Changes the lockscreen bottom t
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
-Size: 13662
+Size: 13684
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 icon: https://camo.githubusercontent.com/6d1f03797c181d596b4faa421fba4202f3add8b36b3c68d7e35030764504a127/68747470733a2f2f692e6962622e636f2f5942734c436b4c2f312d7363726f6c6c2d646f776e2d70686f6e652d69636f6e2d7363726f6c6c696e672d73637265656e2d7369676e2d766563746f722d32383239303033362e6a7067
 Filename: ./debs/com.cmd.changebottomlstext2_1.0_HB1317_iphoneos-arm.deb
-MD5sum: 9983e7ca603bb9a5e6ea1cbca4a6b56a
-SHA1: 497033a61c0375cca167aa83cbe7799d514c43c0
-SHA256: 93bcdf23a6ac00fa823a23ca5df01124d2a1d31463cb306836b559bacf985e07
-SHA512: 0556e48384b3f5723ade4634e836d01fc63bde965a28b56373480e2f2d57efa4541b7d9ad496b3542c53b84c9e0a72cc7bcf1a1568bd639d3d7e332679c67713
+MD5sum: 34c75430ffc22a5810943e5903b6b6bf
+SHA1: 5126d9e3bb4f5758bced41c495ac27284678a863
+SHA256: d197b7bdffbb2ee3b73509ea364ce5f1dd13665e1fe95068358a80322608112a
+SHA512: ddd71809bd188a2a1c50efb7b8031ef20907a4a02abf033debd7848495d2275f9591469705c4e132a0c2485a15c7e57f5eeda6c30fd0e011e978e8e98ea91a94
 
 Package: com.cmd.changebottomlstext2
 Name: ChangeBottomLSText (HB Only ios 13-17)
