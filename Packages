@@ -170,3 +170,33 @@ MD5sum: 3cb1eeba48b336fd4e2ef9ef206a0a04
 SHA1: 9023f2534dfbd7b594395ae4e06553e755445547
 SHA256: 754274153b0cf816ba4525b55ed67bce7db3d3afa5104bdda177c999170ce31c
 SHA512: bcdfe3d9bfa185efb72ac7fa15991ff3121188f6804803fb7bb21583fea3961ef8575adc1b08b28af2dd49333cdfa24b8605c55ac86632f5448007094938f3a2
+
+Package: com.cmd.disablebatterycolors
+Name: DisableBatteryColors
+Architecture: iphoneos-arm
+Description: Disables battery colors (LPM, Low battery, charging) and it also gives a stylish look to the battery icon changing the border color to white when background is normal/dark and black when background is light. (THIS WAS THE SOLUTION TO DISABLE THE BATTERY WIDGET COLOR IN THE TWEAK "AIM/AIM PRO" SO IT LOOKS MORE LIKE STOCK IOS 16/17)
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 3884
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.cmd.disablebatterycolors_1.0_iphoneos-arm.deb
+MD5sum: 7985841aafe7b4915f440dbc28779220
+SHA1: 6f3a1ec3af4880ba98757ea30ccb198709b5f04a
+SHA256: a6c0619adef7c580dec08d2e667e7d3b5f20293bc1aaf07c1a18aad135530e8d
+SHA512: 90def0fcb1d4f8780a3a697a506e4b08e8449106eee348d85d22c9e5bfd7681edb6157b3d8182518f857974a433d617b9aef838b9890eaf763466431872103c8
+
+Package: com.cmd.disablebatterycolors
+Name: DisableBatteryColors
+Architecture: iphoneos-arm64
+Description: Disables battery colors (LPM, Low battery, charging) and it also gives a stylish look to the battery icon changing the border color to white when background is normal/dark and black when background is light. (THIS WAS THE SOLUTION TO DISABLE THE BATTERY WIDGET COLOR IN THE TWEAK "AIM/AIM PRO" SO IT LOOKS MORE LIKE STOCK IOS 16/17)
+Author: CмÐ
+Section: Tweaks
+Version: 1.0
+Size: 3976
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.cmd.disablebatterycolors_1.0_iphoneos-arm64.deb
+MD5sum: 333341bc9979153069707b62217d5d79
+SHA1: f296df56da7a3da39375c586e37566f07b6dba45
+SHA256: 1821543998d8408f4fa7ebbf531a6654a9db607a46d4e2bb911cc9b91410169d
+SHA512: 068d60212e6bd9ee6c0a1b98a699694471777317605980a11876b6858bb99fef89a0c9917bedbcf4ddf7844a33f2f1eb0b31848d5d67234a9cfe0e979dcd802b
