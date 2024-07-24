@@ -63,6 +63,7 @@ Package: com.cmd.changebottomlstext
 Name: ChangeBottomLSText (HB Only ios 10-12)
 Architecture: iphoneos-arm
 Description: (HB means Home Button devices only) Changes the lockscreen bottom text and always display it, also hides lockscreen bottom dot.
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -79,6 +80,7 @@ Package: com.cmd.changebottomlstext2
 Name: ChangeBottomLSText (HB Only ios 13-17)
 Architecture: iphoneos-arm
 Description: (HB means Home Button devices only) Changes the lockscreen bottom text and always display it, also hides lockscreen bottom dot. KNOWN ISSUE: The text won't be saved in preferences unless getting out of the preference pane before respring (you can get back to the preference pane and respring from there). DISCLAIMER: The hide lockscreen bottom dot might not work on ios 16 i didn't have a device to test.
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -95,6 +97,7 @@ Package: com.cmd.changebottomlstext2
 Name: ChangeBottomLSText (HB Only ios 13-17)
 Architecture: iphoneos-arm64
 Description: (HB means Home Button devices only) Changes the lockscreen bottom text and always display it, also hides lockscreen bottom dot. KNOWN ISSUE: The text won't be saved in preferences unless getting out of the preference pane before respring (you can get back to the preference pane and respring from there). DISCLAIMER: The hide lockscreen bottom dot might not work on ios 16 i didn't have a device to test.
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -111,6 +114,7 @@ Package: com.cmd.changebottomlstext3
 Name: ChangeBottomLSText (X gestures Only 13-17)
 Architecture: iphoneos-arm
 Description: Changes the lockscreen bottom text. KNOWN ISSUE: The text won't be saved in preferences unless getting out of the preference pane before respring (you can get back to the preference pane and respring from there). DISCLAIMER: Might not work on ios 16 i didn't have a device to test.
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -127,6 +131,7 @@ Package: com.cmd.changebottomlstext3
 Name: ChangeBottomLSText (X gestures Only 13-17)
 Architecture: iphoneos-arm64
 Description: Changes the lockscreen bottom text. KNOWN ISSUE: The text won't be saved in preferences unless getting out of the preference pane before respring (you can get back to the preference pane and respring from there). DISCLAIMER: Might not work on ios 16 i didn't have a device to test.
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -143,6 +148,7 @@ Package: com.cmd.quickactionsx
 Name: QuickActionsX
 Architecture: iphoneos-arm
 Description: Enable lock screen quick action buttons on devices that don't have them and move them horizontally or vertically.
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -159,6 +165,7 @@ Package: com.cmd.quickactionsx
 Name: QuickActionsX
 Architecture: iphoneos-arm64
 Description: Enable lock screen quick action buttons on devices that don't have them and move them horizontally or vertically.
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -175,6 +182,7 @@ Package: com.cmd.disablebatterycolors
 Name: DisableBatteryColors
 Architecture: iphoneos-arm
 Description: Disables battery colors (LPM, Low battery, charging) and it also gives a stylish look to the battery icon changing the border color to white when background is normal/dark and black when background is light. (THIS WAS THE SOLUTION TO DISABLE THE BATTERY WIDGET COLOR IN THE TWEAK "AIM/AIM PRO" SO IT LOOKS MORE LIKE STOCK IOS 16/17)
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
@@ -190,6 +198,7 @@ Package: com.cmd.disablebatterycolors
 Name: DisableBatteryColors
 Architecture: iphoneos-arm64
 Description: Disables battery colors (LPM, Low battery, charging) and it also gives a stylish look to the battery icon changing the border color to white when background is normal/dark and black when background is light. (THIS WAS THE SOLUTION TO DISABLE THE BATTERY WIDGET COLOR IN THE TWEAK "AIM/AIM PRO" SO IT LOOKS MORE LIKE STOCK IOS 16/17)
+Maintainer: CмÐ
 Author: CмÐ
 Section: Tweaks
 Version: 1.0
